@@ -9,6 +9,14 @@ Kelas       : D
 ## About
 Program ini adalah sebuah aplikasi simpel yang memungkinkan pengguna untuk memesan makanan secara online di restoran. Aplikasi ini menggunakan bahasa pemrograman Java dan memiliki antarmuka berbasis Command Prompt untuk menerima input dan menampilkan output.
 
+## UML
+Diagram kelas UML adalah suatu representasi visual dari struktur model sistem berbasis objek yang menampilkan kelas-kelas yang terdapat dalam sistem, atribut yang dimiliki oleh setiap kelas, dan juga keterkaitan antara kelas-kelas tersebut.
+
+Berikut Gambar UML dari program ini
+
+![UML](/IMAGE/Untitled%20Diagram.drawio.png "UML")
+
+
 ## Alur Program
 Dibawah ini adalah step by step dari menggunakan proggram tersebut
 
